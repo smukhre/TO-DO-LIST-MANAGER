@@ -15,4 +15,4 @@ A simple To-Do List Manager built in C++ that allows users to add tasks, view ta
 
 ## Case Study 
 -  Detailed case study of the project, please refer to the following Google Docs link.
--  https://docs.google.com/document/d/1fP4EvZKrPCHVOttQZ8o_DGEXu-BlO6RVKqrkng4pzlw/edit?tab=t.0.
+-  **Google Docs**: https://docs.google.com/document/d/1fP4EvZKrPCHVOttQZ8o_DGEXu-BlO6RVKqrkng4pzlw/edit?tab=t.0.
